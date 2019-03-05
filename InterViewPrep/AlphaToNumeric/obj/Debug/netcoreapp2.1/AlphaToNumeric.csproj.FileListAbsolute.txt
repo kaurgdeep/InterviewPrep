@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\AlphaToNumeric\bin\Debug\netcoreapp2.1\AlphaToNumeric.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\AlphaToNumeric\bin\Debug\netcoreapp2.1\AlphaToNumeric.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\AlphaToNumeric\bin\Debug\netcoreapp2.1\AlphaToNumeric.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\AlphaToNumeric\bin\Debug\netcoreapp2.1\AlphaToNumeric.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\AlphaToNumeric\bin\Debug\netcoreapp2.1\AlphaToNumeric.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\AlphaToNumeric\obj\Debug\netcoreapp2.1\AlphaToNumeric.csprojAssemblyReference.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\AlphaToNumeric\obj\Debug\netcoreapp2.1\AlphaToNumeric.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\AlphaToNumeric\obj\Debug\netcoreapp2.1\AlphaToNumeric.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\AlphaToNumeric\obj\Debug\netcoreapp2.1\AlphaToNumeric.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\AlphaToNumeric\obj\Debug\netcoreapp2.1\AlphaToNumeric.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\AlphaToNumeric\obj\Debug\netcoreapp2.1\AlphaToNumeric.pdb

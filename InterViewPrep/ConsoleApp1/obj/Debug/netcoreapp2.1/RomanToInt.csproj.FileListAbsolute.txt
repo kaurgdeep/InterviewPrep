@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\ConsoleApp1\bin\Debug\netcoreapp2.1\RomanToInt.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\ConsoleApp1\bin\Debug\netcoreapp2.1\RomanToInt.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\ConsoleApp1\bin\Debug\netcoreapp2.1\RomanToInt.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\ConsoleApp1\bin\Debug\netcoreapp2.1\RomanToInt.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\ConsoleApp1\bin\Debug\netcoreapp2.1\RomanToInt.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\ConsoleApp1\obj\Debug\netcoreapp2.1\RomanToInt.csprojAssemblyReference.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\ConsoleApp1\obj\Debug\netcoreapp2.1\RomanToInt.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\ConsoleApp1\obj\Debug\netcoreapp2.1\RomanToInt.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\ConsoleApp1\obj\Debug\netcoreapp2.1\RomanToInt.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\ConsoleApp1\obj\Debug\netcoreapp2.1\RomanToInt.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\ConsoleApp1\obj\Debug\netcoreapp2.1\RomanToInt.pdb
