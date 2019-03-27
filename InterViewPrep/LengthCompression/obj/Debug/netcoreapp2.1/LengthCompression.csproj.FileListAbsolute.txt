@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LengthCompression\bin\Debug\netcoreapp2.1\LengthCompression.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LengthCompression\bin\Debug\netcoreapp2.1\LengthCompression.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LengthCompression\bin\Debug\netcoreapp2.1\LengthCompression.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LengthCompression\bin\Debug\netcoreapp2.1\LengthCompression.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LengthCompression\bin\Debug\netcoreapp2.1\LengthCompression.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LengthCompression\obj\Debug\netcoreapp2.1\LengthCompression.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LengthCompression\obj\Debug\netcoreapp2.1\LengthCompression.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LengthCompression\obj\Debug\netcoreapp2.1\LengthCompression.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LengthCompression\obj\Debug\netcoreapp2.1\LengthCompression.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LengthCompression\obj\Debug\netcoreapp2.1\LengthCompression.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LengthCompression\obj\Debug\netcoreapp2.1\LengthCompression.csprojAssemblyReference.cache

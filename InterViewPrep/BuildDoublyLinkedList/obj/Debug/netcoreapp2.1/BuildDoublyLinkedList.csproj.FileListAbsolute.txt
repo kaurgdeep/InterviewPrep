@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildDoublyLinkedList\bin\Debug\netcoreapp2.1\BuildDoublyLinkedList.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildDoublyLinkedList\bin\Debug\netcoreapp2.1\BuildDoublyLinkedList.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildDoublyLinkedList\bin\Debug\netcoreapp2.1\BuildDoublyLinkedList.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildDoublyLinkedList\bin\Debug\netcoreapp2.1\BuildDoublyLinkedList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildDoublyLinkedList\bin\Debug\netcoreapp2.1\BuildDoublyLinkedList.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildDoublyLinkedList\obj\Debug\netcoreapp2.1\BuildDoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildDoublyLinkedList\obj\Debug\netcoreapp2.1\BuildDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildDoublyLinkedList\obj\Debug\netcoreapp2.1\BuildDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildDoublyLinkedList\obj\Debug\netcoreapp2.1\BuildDoublyLinkedList.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildDoublyLinkedList\obj\Debug\netcoreapp2.1\BuildDoublyLinkedList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildDoublyLinkedList\obj\Debug\netcoreapp2.1\BuildDoublyLinkedList.pdb

@@ -1,0 +1,10 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountList\bin\Debug\netcoreapp2.1\CountList.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountList\bin\Debug\netcoreapp2.1\CountList.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountList\bin\Debug\netcoreapp2.1\CountList.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountList\bin\Debug\netcoreapp2.1\CountList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountList\bin\Debug\netcoreapp2.1\CountList.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountList\obj\Debug\netcoreapp2.1\CountList.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountList\obj\Debug\netcoreapp2.1\CountList.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountList\obj\Debug\netcoreapp2.1\CountList.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountList\obj\Debug\netcoreapp2.1\CountList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountList\obj\Debug\netcoreapp2.1\CountList.pdb

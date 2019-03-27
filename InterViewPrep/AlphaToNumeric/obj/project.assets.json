@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\AlphaToNumeric\\AlphaToNumeric.csproj",
+      "projectUniqueName": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\InterViewPrep\\AlphaToNumeric\\AlphaToNumeric.csproj",
       "projectName": "AlphaToNumeric",
-      "projectPath": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\AlphaToNumeric\\AlphaToNumeric.csproj",
+      "projectPath": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\InterViewPrep\\AlphaToNumeric\\AlphaToNumeric.csproj",
       "packagesPath": "C:\\Users\\gagandeep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\AlphaToNumeric\\obj\\",
+      "outputPath": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\InterViewPrep\\AlphaToNumeric\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

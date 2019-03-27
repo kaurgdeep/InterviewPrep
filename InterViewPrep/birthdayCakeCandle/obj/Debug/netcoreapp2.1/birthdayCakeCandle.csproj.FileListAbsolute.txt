@@ -1,0 +1,10 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\birthdayCakeCandle\bin\Debug\netcoreapp2.1\birthdayCakeCandle.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\birthdayCakeCandle\bin\Debug\netcoreapp2.1\birthdayCakeCandle.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\birthdayCakeCandle\bin\Debug\netcoreapp2.1\birthdayCakeCandle.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\birthdayCakeCandle\bin\Debug\netcoreapp2.1\birthdayCakeCandle.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\birthdayCakeCandle\bin\Debug\netcoreapp2.1\birthdayCakeCandle.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\birthdayCakeCandle\obj\Debug\netcoreapp2.1\birthdayCakeCandle.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\birthdayCakeCandle\obj\Debug\netcoreapp2.1\birthdayCakeCandle.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\birthdayCakeCandle\obj\Debug\netcoreapp2.1\birthdayCakeCandle.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\birthdayCakeCandle\obj\Debug\netcoreapp2.1\birthdayCakeCandle.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\birthdayCakeCandle\obj\Debug\netcoreapp2.1\birthdayCakeCandle.pdb

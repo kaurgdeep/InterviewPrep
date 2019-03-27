@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToHexadecimal\bin\Debug\netcoreapp2.1\DecimalToHexadecimal.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToHexadecimal\bin\Debug\netcoreapp2.1\DecimalToHexadecimal.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToHexadecimal\bin\Debug\netcoreapp2.1\DecimalToHexadecimal.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToHexadecimal\bin\Debug\netcoreapp2.1\DecimalToHexadecimal.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToHexadecimal\bin\Debug\netcoreapp2.1\DecimalToHexadecimal.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToHexadecimal\obj\Debug\netcoreapp2.1\DecimalToHexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToHexadecimal\obj\Debug\netcoreapp2.1\DecimalToHexadecimal.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToHexadecimal\obj\Debug\netcoreapp2.1\DecimalToHexadecimal.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToHexadecimal\obj\Debug\netcoreapp2.1\DecimalToHexadecimal.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToHexadecimal\obj\Debug\netcoreapp2.1\DecimalToHexadecimal.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToHexadecimal\obj\Debug\netcoreapp2.1\DecimalToHexadecimal.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\StringToInt\bin\Debug\netcoreapp2.1\StringToInt.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\StringToInt\bin\Debug\netcoreapp2.1\StringToInt.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\StringToInt\bin\Debug\netcoreapp2.1\StringToInt.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\StringToInt\bin\Debug\netcoreapp2.1\StringToInt.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\StringToInt\bin\Debug\netcoreapp2.1\StringToInt.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\StringToInt\obj\Debug\netcoreapp2.1\StringToInt.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\StringToInt\obj\Debug\netcoreapp2.1\StringToInt.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\StringToInt\obj\Debug\netcoreapp2.1\StringToInt.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\StringToInt\obj\Debug\netcoreapp2.1\StringToInt.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\StringToInt\obj\Debug\netcoreapp2.1\StringToInt.pdb

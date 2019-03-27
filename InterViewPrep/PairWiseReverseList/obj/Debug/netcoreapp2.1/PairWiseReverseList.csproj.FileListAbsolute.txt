@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\PairWiseReverseList\bin\Debug\netcoreapp2.1\PairWiseReverseList.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\PairWiseReverseList\bin\Debug\netcoreapp2.1\PairWiseReverseList.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\PairWiseReverseList\bin\Debug\netcoreapp2.1\PairWiseReverseList.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\PairWiseReverseList\bin\Debug\netcoreapp2.1\PairWiseReverseList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\PairWiseReverseList\bin\Debug\netcoreapp2.1\PairWiseReverseList.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\PairWiseReverseList\obj\Debug\netcoreapp2.1\PairWiseReverseList.csprojAssemblyReference.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\PairWiseReverseList\obj\Debug\netcoreapp2.1\PairWiseReverseList.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\PairWiseReverseList\obj\Debug\netcoreapp2.1\PairWiseReverseList.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\PairWiseReverseList\obj\Debug\netcoreapp2.1\PairWiseReverseList.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\PairWiseReverseList\obj\Debug\netcoreapp2.1\PairWiseReverseList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\PairWiseReverseList\obj\Debug\netcoreapp2.1\PairWiseReverseList.pdb

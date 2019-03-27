@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToBinary\bin\Debug\netcoreapp2.1\DecimalToBinary.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToBinary\bin\Debug\netcoreapp2.1\DecimalToBinary.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToBinary\bin\Debug\netcoreapp2.1\DecimalToBinary.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToBinary\bin\Debug\netcoreapp2.1\DecimalToBinary.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToBinary\bin\Debug\netcoreapp2.1\DecimalToBinary.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToBinary\obj\Debug\netcoreapp2.1\DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToBinary\obj\Debug\netcoreapp2.1\DecimalToBinary.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToBinary\obj\Debug\netcoreapp2.1\DecimalToBinary.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToBinary\obj\Debug\netcoreapp2.1\DecimalToBinary.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToBinary\obj\Debug\netcoreapp2.1\DecimalToBinary.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\DecimalToBinary\obj\Debug\netcoreapp2.1\DecimalToBinary.csprojAssemblyReference.cache

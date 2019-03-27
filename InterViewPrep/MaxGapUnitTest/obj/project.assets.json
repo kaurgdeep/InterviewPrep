@@ -5744,11 +5744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gagandeep\\desktop\\InterviewPrep\\MaxGapUnitTest\\MaxGapUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\InterViewPrep\\MaxGapUnitTest\\MaxGapUnitTest.csproj",
       "projectName": "MaxGapUnitTest",
-      "projectPath": "C:\\Users\\gagandeep\\desktop\\InterviewPrep\\MaxGapUnitTest\\MaxGapUnitTest.csproj",
+      "projectPath": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\InterViewPrep\\MaxGapUnitTest\\MaxGapUnitTest.csproj",
       "packagesPath": "C:\\Users\\gagandeep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gagandeep\\desktop\\InterviewPrep\\MaxGapUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\InterViewPrep\\MaxGapUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5767,8 +5767,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\gagandeep\\desktop\\InterviewPrep\\MaxGap\\MaxGap.csproj": {
-              "projectPath": "C:\\Users\\gagandeep\\desktop\\InterviewPrep\\MaxGap\\MaxGap.csproj"
+            "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\InterViewPrep\\MaxGap\\MaxGap.csproj": {
+              "projectPath": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\InterViewPrep\\MaxGap\\MaxGap.csproj"
             }
           }
         }

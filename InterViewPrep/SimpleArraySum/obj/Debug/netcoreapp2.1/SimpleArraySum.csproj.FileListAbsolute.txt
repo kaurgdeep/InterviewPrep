@@ -1,0 +1,10 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SimpleArraySum\bin\Debug\netcoreapp2.1\SimpleArraySum.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SimpleArraySum\bin\Debug\netcoreapp2.1\SimpleArraySum.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SimpleArraySum\bin\Debug\netcoreapp2.1\SimpleArraySum.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SimpleArraySum\bin\Debug\netcoreapp2.1\SimpleArraySum.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SimpleArraySum\bin\Debug\netcoreapp2.1\SimpleArraySum.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SimpleArraySum\obj\Debug\netcoreapp2.1\SimpleArraySum.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SimpleArraySum\obj\Debug\netcoreapp2.1\SimpleArraySum.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SimpleArraySum\obj\Debug\netcoreapp2.1\SimpleArraySum.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SimpleArraySum\obj\Debug\netcoreapp2.1\SimpleArraySum.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SimpleArraySum\obj\Debug\netcoreapp2.1\SimpleArraySum.pdb

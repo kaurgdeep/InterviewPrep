@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NewYearChaos\bin\Debug\netcoreapp2.1\NewYearChaos.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NewYearChaos\bin\Debug\netcoreapp2.1\NewYearChaos.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NewYearChaos\bin\Debug\netcoreapp2.1\NewYearChaos.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NewYearChaos\bin\Debug\netcoreapp2.1\NewYearChaos.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NewYearChaos\bin\Debug\netcoreapp2.1\NewYearChaos.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NewYearChaos\obj\Debug\netcoreapp2.1\NewYearChaos.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NewYearChaos\obj\Debug\netcoreapp2.1\NewYearChaos.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NewYearChaos\obj\Debug\netcoreapp2.1\NewYearChaos.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NewYearChaos\obj\Debug\netcoreapp2.1\NewYearChaos.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NewYearChaos\obj\Debug\netcoreapp2.1\NewYearChaos.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NewYearChaos\obj\Debug\netcoreapp2.1\NewYearChaos.csprojAssemblyReference.cache

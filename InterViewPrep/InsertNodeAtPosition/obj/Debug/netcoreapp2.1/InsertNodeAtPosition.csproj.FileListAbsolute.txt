@@ -1,0 +1,10 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeAtPosition\bin\Debug\netcoreapp2.1\InsertNodeAtPosition.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeAtPosition\bin\Debug\netcoreapp2.1\InsertNodeAtPosition.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeAtPosition\bin\Debug\netcoreapp2.1\InsertNodeAtPosition.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeAtPosition\bin\Debug\netcoreapp2.1\InsertNodeAtPosition.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeAtPosition\bin\Debug\netcoreapp2.1\InsertNodeAtPosition.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeAtPosition\obj\Debug\netcoreapp2.1\InsertNodeAtPosition.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeAtPosition\obj\Debug\netcoreapp2.1\InsertNodeAtPosition.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeAtPosition\obj\Debug\netcoreapp2.1\InsertNodeAtPosition.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeAtPosition\obj\Debug\netcoreapp2.1\InsertNodeAtPosition.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeAtPosition\obj\Debug\netcoreapp2.1\InsertNodeAtPosition.pdb

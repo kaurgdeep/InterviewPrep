@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LeftRotation\bin\Debug\netcoreapp2.1\LeftRotation.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LeftRotation\bin\Debug\netcoreapp2.1\LeftRotation.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LeftRotation\bin\Debug\netcoreapp2.1\LeftRotation.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LeftRotation\bin\Debug\netcoreapp2.1\LeftRotation.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LeftRotation\bin\Debug\netcoreapp2.1\LeftRotation.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LeftRotation\obj\Debug\netcoreapp2.1\LeftRotation.csprojAssemblyReference.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LeftRotation\obj\Debug\netcoreapp2.1\LeftRotation.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LeftRotation\obj\Debug\netcoreapp2.1\LeftRotation.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LeftRotation\obj\Debug\netcoreapp2.1\LeftRotation.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LeftRotation\obj\Debug\netcoreapp2.1\LeftRotation.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\LeftRotation\obj\Debug\netcoreapp2.1\LeftRotation.pdb

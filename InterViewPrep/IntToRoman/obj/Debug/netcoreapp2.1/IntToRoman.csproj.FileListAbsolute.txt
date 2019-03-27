@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\IntToRoman\bin\Debug\netcoreapp2.1\IntToRoman.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\IntToRoman\bin\Debug\netcoreapp2.1\IntToRoman.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\IntToRoman\bin\Debug\netcoreapp2.1\IntToRoman.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\IntToRoman\bin\Debug\netcoreapp2.1\IntToRoman.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\IntToRoman\bin\Debug\netcoreapp2.1\IntToRoman.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\IntToRoman\obj\Debug\netcoreapp2.1\IntToRoman.csprojAssemblyReference.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\IntToRoman\obj\Debug\netcoreapp2.1\IntToRoman.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\IntToRoman\obj\Debug\netcoreapp2.1\IntToRoman.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\IntToRoman\obj\Debug\netcoreapp2.1\IntToRoman.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\IntToRoman\obj\Debug\netcoreapp2.1\IntToRoman.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\IntToRoman\obj\Debug\netcoreapp2.1\IntToRoman.pdb

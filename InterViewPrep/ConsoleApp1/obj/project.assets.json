@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\ConsoleApp1\\RomanToInt.csproj",
+      "projectUniqueName": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\InterViewPrep\\ConsoleApp1\\RomanToInt.csproj",
       "projectName": "RomanToInt",
-      "projectPath": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\ConsoleApp1\\RomanToInt.csproj",
+      "projectPath": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\InterViewPrep\\ConsoleApp1\\RomanToInt.csproj",
       "packagesPath": "C:\\Users\\gagandeep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\gagandeep\\Desktop\\InterviewPrep\\InterViewPrep\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

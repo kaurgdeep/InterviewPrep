@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\reverseList\bin\Debug\netcoreapp2.1\reverseList.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\reverseList\bin\Debug\netcoreapp2.1\reverseList.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\reverseList\bin\Debug\netcoreapp2.1\reverseList.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\reverseList\bin\Debug\netcoreapp2.1\reverseList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\reverseList\bin\Debug\netcoreapp2.1\reverseList.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\reverseList\obj\Debug\netcoreapp2.1\reverseList.csprojAssemblyReference.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\reverseList\obj\Debug\netcoreapp2.1\reverseList.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\reverseList\obj\Debug\netcoreapp2.1\reverseList.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\reverseList\obj\Debug\netcoreapp2.1\reverseList.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\reverseList\obj\Debug\netcoreapp2.1\reverseList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\reverseList\obj\Debug\netcoreapp2.1\reverseList.pdb

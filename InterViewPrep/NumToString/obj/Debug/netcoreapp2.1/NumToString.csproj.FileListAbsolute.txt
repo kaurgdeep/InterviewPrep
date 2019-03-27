@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NumToString\bin\Debug\netcoreapp2.1\NumToString.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NumToString\bin\Debug\netcoreapp2.1\NumToString.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NumToString\bin\Debug\netcoreapp2.1\NumToString.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NumToString\bin\Debug\netcoreapp2.1\NumToString.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NumToString\bin\Debug\netcoreapp2.1\NumToString.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NumToString\obj\Debug\netcoreapp2.1\NumToString.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NumToString\obj\Debug\netcoreapp2.1\NumToString.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NumToString\obj\Debug\netcoreapp2.1\NumToString.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NumToString\obj\Debug\netcoreapp2.1\NumToString.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NumToString\obj\Debug\netcoreapp2.1\NumToString.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\NumToString\obj\Debug\netcoreapp2.1\NumToString.csprojAssemblyReference.cache

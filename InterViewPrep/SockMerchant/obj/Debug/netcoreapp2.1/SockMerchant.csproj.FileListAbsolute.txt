@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SockMerchant\bin\Debug\netcoreapp2.1\SockMerchant.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SockMerchant\bin\Debug\netcoreapp2.1\SockMerchant.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SockMerchant\bin\Debug\netcoreapp2.1\SockMerchant.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SockMerchant\bin\Debug\netcoreapp2.1\SockMerchant.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SockMerchant\bin\Debug\netcoreapp2.1\SockMerchant.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SockMerchant\obj\Debug\netcoreapp2.1\SockMerchant.csprojAssemblyReference.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SockMerchant\obj\Debug\netcoreapp2.1\SockMerchant.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SockMerchant\obj\Debug\netcoreapp2.1\SockMerchant.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SockMerchant\obj\Debug\netcoreapp2.1\SockMerchant.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SockMerchant\obj\Debug\netcoreapp2.1\SockMerchant.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\SockMerchant\obj\Debug\netcoreapp2.1\SockMerchant.pdb

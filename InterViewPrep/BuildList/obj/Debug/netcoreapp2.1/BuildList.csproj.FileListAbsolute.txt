@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildList\bin\Debug\netcoreapp2.1\BuildList.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildList\bin\Debug\netcoreapp2.1\BuildList.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildList\bin\Debug\netcoreapp2.1\BuildList.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildList\bin\Debug\netcoreapp2.1\BuildList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildList\bin\Debug\netcoreapp2.1\BuildList.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildList\obj\Debug\netcoreapp2.1\BuildList.csprojAssemblyReference.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildList\obj\Debug\netcoreapp2.1\BuildList.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildList\obj\Debug\netcoreapp2.1\BuildList.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildList\obj\Debug\netcoreapp2.1\BuildList.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildList\obj\Debug\netcoreapp2.1\BuildList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildList\obj\Debug\netcoreapp2.1\BuildList.pdb

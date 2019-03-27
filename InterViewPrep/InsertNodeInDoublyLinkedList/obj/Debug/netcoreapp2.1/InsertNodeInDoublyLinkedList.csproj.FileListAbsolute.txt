@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeInDoublyLinkedList\bin\Debug\netcoreapp2.1\InsertNodeInDoublyLinkedList.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeInDoublyLinkedList\bin\Debug\netcoreapp2.1\InsertNodeInDoublyLinkedList.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeInDoublyLinkedList\bin\Debug\netcoreapp2.1\InsertNodeInDoublyLinkedList.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeInDoublyLinkedList\bin\Debug\netcoreapp2.1\InsertNodeInDoublyLinkedList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeInDoublyLinkedList\bin\Debug\netcoreapp2.1\InsertNodeInDoublyLinkedList.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeInDoublyLinkedList\obj\Debug\netcoreapp2.1\InsertNodeInDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeInDoublyLinkedList\obj\Debug\netcoreapp2.1\InsertNodeInDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeInDoublyLinkedList\obj\Debug\netcoreapp2.1\InsertNodeInDoublyLinkedList.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeInDoublyLinkedList\obj\Debug\netcoreapp2.1\InsertNodeInDoublyLinkedList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeInDoublyLinkedList\obj\Debug\netcoreapp2.1\InsertNodeInDoublyLinkedList.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\InsertNodeInDoublyLinkedList\obj\Debug\netcoreapp2.1\InsertNodeInDoublyLinkedList.csprojAssemblyReference.cache

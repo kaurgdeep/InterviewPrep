@@ -1,4 +1,4 @@
-﻿using System;
+﻿;using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,7 +18,7 @@ namespace MaxGap
             //Console.WriteLine(MaxGap(0xFFF));
         }
 
-        public static int MaxGap(int i)
+        public static int MaxGap(byte i)
         {
             bool SawOne = false;
             int MaxZeros = 0;

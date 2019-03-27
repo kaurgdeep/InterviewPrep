@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildSortedList\bin\Debug\netcoreapp2.1\BuildSortedList.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildSortedList\bin\Debug\netcoreapp2.1\BuildSortedList.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildSortedList\bin\Debug\netcoreapp2.1\BuildSortedList.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildSortedList\bin\Debug\netcoreapp2.1\BuildSortedList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildSortedList\bin\Debug\netcoreapp2.1\BuildSortedList.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildSortedList\obj\Debug\netcoreapp2.1\BuildSortedList.csprojAssemblyReference.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildSortedList\obj\Debug\netcoreapp2.1\BuildSortedList.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildSortedList\obj\Debug\netcoreapp2.1\BuildSortedList.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildSortedList\obj\Debug\netcoreapp2.1\BuildSortedList.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildSortedList\obj\Debug\netcoreapp2.1\BuildSortedList.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\BuildSortedList\obj\Debug\netcoreapp2.1\BuildSortedList.pdb

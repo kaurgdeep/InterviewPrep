@@ -1,0 +1,10 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.pdb

@@ -1,0 +1,10 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\OctalToDecimal\bin\Debug\netcoreapp2.1\OctalToDecimal.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\OctalToDecimal\bin\Debug\netcoreapp2.1\OctalToDecimal.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\OctalToDecimal\bin\Debug\netcoreapp2.1\OctalToDecimal.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\OctalToDecimal\bin\Debug\netcoreapp2.1\OctalToDecimal.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\OctalToDecimal\bin\Debug\netcoreapp2.1\OctalToDecimal.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\OctalToDecimal\obj\Debug\netcoreapp2.1\OctalToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\OctalToDecimal\obj\Debug\netcoreapp2.1\OctalToDecimal.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\OctalToDecimal\obj\Debug\netcoreapp2.1\OctalToDecimal.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\OctalToDecimal\obj\Debug\netcoreapp2.1\OctalToDecimal.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\OctalToDecimal\obj\Debug\netcoreapp2.1\OctalToDecimal.pdb

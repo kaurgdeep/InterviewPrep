@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\ReverseBits\bin\Debug\netcoreapp2.1\ReverseBits.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\ReverseBits\bin\Debug\netcoreapp2.1\ReverseBits.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\ReverseBits\bin\Debug\netcoreapp2.1\ReverseBits.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\ReverseBits\bin\Debug\netcoreapp2.1\ReverseBits.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\ReverseBits\bin\Debug\netcoreapp2.1\ReverseBits.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\ReverseBits\obj\Debug\netcoreapp2.1\ReverseBits.csprojAssemblyReference.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\ReverseBits\obj\Debug\netcoreapp2.1\ReverseBits.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\ReverseBits\obj\Debug\netcoreapp2.1\ReverseBits.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\ReverseBits\obj\Debug\netcoreapp2.1\ReverseBits.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\ReverseBits\obj\Debug\netcoreapp2.1\ReverseBits.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\ReverseBits\obj\Debug\netcoreapp2.1\ReverseBits.pdb

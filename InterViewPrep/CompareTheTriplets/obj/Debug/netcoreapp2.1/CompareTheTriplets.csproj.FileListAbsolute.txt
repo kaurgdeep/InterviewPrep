@@ -1,0 +1,10 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CompareTheTriplets\bin\Debug\netcoreapp2.1\CompareTheTriplets.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CompareTheTriplets\bin\Debug\netcoreapp2.1\CompareTheTriplets.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CompareTheTriplets\bin\Debug\netcoreapp2.1\CompareTheTriplets.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CompareTheTriplets\bin\Debug\netcoreapp2.1\CompareTheTriplets.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CompareTheTriplets\bin\Debug\netcoreapp2.1\CompareTheTriplets.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CompareTheTriplets\obj\Debug\netcoreapp2.1\CompareTheTriplets.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CompareTheTriplets\obj\Debug\netcoreapp2.1\CompareTheTriplets.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CompareTheTriplets\obj\Debug\netcoreapp2.1\CompareTheTriplets.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CompareTheTriplets\obj\Debug\netcoreapp2.1\CompareTheTriplets.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CompareTheTriplets\obj\Debug\netcoreapp2.1\CompareTheTriplets.pdb

@@ -1,0 +1,10 @@
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountFlipBits\bin\Debug\netcoreapp2.1\CountFlipBits.deps.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountFlipBits\bin\Debug\netcoreapp2.1\CountFlipBits.runtimeconfig.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountFlipBits\bin\Debug\netcoreapp2.1\CountFlipBits.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountFlipBits\bin\Debug\netcoreapp2.1\CountFlipBits.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountFlipBits\bin\Debug\netcoreapp2.1\CountFlipBits.pdb
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountFlipBits\obj\Debug\netcoreapp2.1\CountFlipBits.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountFlipBits\obj\Debug\netcoreapp2.1\CountFlipBits.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountFlipBits\obj\Debug\netcoreapp2.1\CountFlipBits.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountFlipBits\obj\Debug\netcoreapp2.1\CountFlipBits.dll
+C:\Users\gagandeep\Desktop\InterviewPrep\InterViewPrep\CountFlipBits\obj\Debug\netcoreapp2.1\CountFlipBits.pdb
